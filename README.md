@@ -41,3 +41,19 @@ Kelas : TI.22.C.9
 `print("Saya sedang belajar python")`
 ![8](https://user-images.githubusercontent.com/123864099/215332396-c51d4fc2-4d56-49fe-a51f-d13493c6e3f5.PNG)
 
+
+# LATIHAN 2
+* Menjumlahkan dua buah bilangan menggunakan variabel a dan b.
+* Mendefinisikan variable a dengan nilai 8
+* Mendefinisikan variable b dengan nilai 6
+* Mencetak nilai variable a dan b
+*  Mencetak hasil penjumlahan a+b
+
+```
+a = 8
+b = 6
+print ("variable a=",a)
+print (variable b=",b)
+print ("hasil penjumlahan a+b=" ,a+b) 
+```
+![1](https://user-images.githubusercontent.com/123864099/215332898-9c1fe3cb-24e4-4322-bf88-6f70485efe22.PNG)
