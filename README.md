@@ -31,7 +31,7 @@ Kelas : TI.22.C.9
 ## Menjalankan Python Console
 *  ketik `python`
 
-![6](https://user-images.githubusercontent.com/123864099/215332364-df15d253-848a-49b1-a46d-e7e21096caac.PNG)
+  ![6](https://user-images.githubusercontent.com/123864099/215332364-df15d253-848a-49b1-a46d-e7e21096caac.PNG)
 
 *  Menampilkan tulisan “Hello” dilayar
 `print("hello")`
