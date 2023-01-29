@@ -99,3 +99,7 @@ print("Hasil Pembagian {1}+{0}=%d").format(a,b) %(a/b))
 * berikut ditampilkan hasil output nya
 <img width="689" alt="2" src="https://user-images.githubusercontent.com/123864099/215333337-c4f5da41-5fb4-41f3-bec8-9e229c95143e.png">
 
+Sekian yang dapat saya sampaikan.
+
+## TERIMA KASIH
+### ADITYA ACHYA ANANTA NUR - 312210714 - TI.22.C. - TEKNIK INFORMATIKA - UNIVERSITAS PELITA BANGSA
