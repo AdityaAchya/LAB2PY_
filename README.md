@@ -57,3 +57,45 @@ print (variable b=",b)
 print ("hasil penjumlahan a+b=" ,a+b) 
 ```
 ![1](https://user-images.githubusercontent.com/123864099/215332898-9c1fe3cb-24e4-4322-bf88-6f70485efe22.PNG)
+
+
+# LATIHAN 3
+## Menjalankan IDLE
+* Membuat file baru dengan nama latihan3.py (pastikan lokasi file pada folder lab2py pada direktori kerja anda).
+* Menggunakan fungsi input untuk mengambil nilai variabel dari keyboard.
+* input nilai variabel :
+
+``` 
+python
+a=input("masukkan nilai a:")
+b=input("masukkan nilai b:")
+```
+
+* cetak nilai variabel
+```
+python
+print("Variabel a=",a)
+print("Variabel b=",b)
+```
+
+* cetak hasil operasi kedua variabel dengan string format
+
+```
+print("Hasil Penggabungan {1}+{0}=%s".format(a,b) %(a+b))
+```
+
+* konversi nilai variabel 
+``` 
+python
+a=int(a)
+b=int(b)
+print("Hasil Penjumlahan {1}+{0}=%d").format(a,b) %(a+b))
+print("Hasil Pembagian {1}+{0}=%d").format(a,b) %(a/b))
+```
+* berikut ditmpikan kode dalam IDLE editor
+<img width="505" alt="1" src="https://user-images.githubusercontent.com/123864099/215333322-86b826d2-67fd-4671-9b69-e2546d5055c3.PNG">
+
+
+* berikut ditampilkan hasil output nya
+<img width="689" alt="2" src="https://user-images.githubusercontent.com/123864099/215333337-c4f5da41-5fb4-41f3-bec8-9e229c95143e.png">
+
