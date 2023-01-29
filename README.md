@@ -25,14 +25,18 @@ Kelas : TI.22.C.9
 ## Latihan 1
 
 * TEST PYTHON MENGGUNAKAN CMD. Coba jalankan perintah `` python --version``
-* Jika muncul informasi versi Python yang di install maka Python sudah berhasil di install dan tidak perlu mengikut langkah selanjutnya untuk menambahkan path python pada environment variables.
+![5](https://user-images.githubusercontent.com/123864099/215332308-7e477839-77be-4a47-adff-3f401b10b185.PNG)
+* Jika muncul informasi versi Python yang di install seperti gambar diatas maka Python sudah berhasil di install dan tidak perlu mengikut langkah selanjutnya untuk menambahkan path python pada environment variables.
 
 ## Menjalankan Python Console
 ketik `python`
-![gambar6](ss2/ss6.png)
+![6](https://user-images.githubusercontent.com/123864099/215332364-df15d253-848a-49b1-a46d-e7e21096caac.PNG)
+
 *  Menampilkan tulisan “Hello” dilayar
 `print("hello")`
-![gambar7](ss2/ss7.png)
+![7](https://user-images.githubusercontent.com/123864099/215332386-bed3b18d-6b7f-46ff-98ab-25d28f2a6f69.PNG)
+
 * Menampilkan tulisan “Saya sedang belajar python” dilayar
 `print("Saya sedang belajar python")`
-![gambar8](ss2/ss8.png)
+![8](https://user-images.githubusercontent.com/123864099/215332396-c51d4fc2-4d56-49fe-a51f-d13493c6e3f5.PNG)
+
