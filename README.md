@@ -29,7 +29,8 @@ Kelas : TI.22.C.9
 * Jika muncul informasi versi Python yang di install seperti gambar diatas maka Python sudah berhasil di install dan tidak perlu mengikut langkah selanjutnya untuk menambahkan path python pada environment variables.
 
 ## Menjalankan Python Console
-ketik `python`
+*ketik `python`
+
 ![6](https://user-images.githubusercontent.com/123864099/215332364-df15d253-848a-49b1-a46d-e7e21096caac.PNG)
 
 *  Menampilkan tulisan “Hello” dilayar
